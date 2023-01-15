@@ -15,7 +15,8 @@ Eu sou um desenvolvedor front-end experiente, proficiente em HTML, CSS e JavaScr
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-
+(https:// github.com/VishwaGauravIn/github-twitter-card-embed )
 ---
 [![](https://visitcount.itsvg.in/api?id=Rogério Silva&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+(https:// github.com/VishwaGauravIn/github-twitter-card-embed )
