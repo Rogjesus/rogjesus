@@ -15,8 +15,7 @@ Eu sou um desenvolvedor front-end experiente, proficiente em HTML, CSS e JavaScr
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Rogério Silva&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
