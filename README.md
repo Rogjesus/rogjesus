@@ -10,4 +10,4 @@
 # 
 ! [ Estatisticas Rogério Silva GitHub(https://github-readme-stats.vercel.app/api?username=rogjesus&show_icons=true&theme=dark)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogjesus&layout=compact)](https://github.com/rogjesus/github-readme-stats)
+ 
