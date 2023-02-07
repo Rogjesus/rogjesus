@@ -12,7 +12,7 @@
 <div align="center">  
     <h2>Status Code</h2> 
 <div width="100%">
-    <img width="98%" height="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogjesus&langs_count=8&theme=tokyonight"/>
+    <img width="98%" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogjesus&langs_count=8&theme=tokyonight"/>
 </div>
 <div>
     <img  src="https://github-readme-stats.vercel.app/api?username=Rogjesus&show_icons=false&theme=tokyonight"/>
