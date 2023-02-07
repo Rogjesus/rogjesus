@@ -12,11 +12,11 @@
 <div align="center">  
     <h2>Status Code</h2> 
 <div width="100%">
-    <img width="78%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosilva&langs_count=8&theme=tokyonight"/>
+    <img width="78%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogério Silva&langs_count=8&theme=tokyonight"/>
 </div>
 <div>
-    <img  src="https://github-readme-stats.vercel.app/api?username=rogeriosilva&show_icons=false&theme=tokyonight"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rogeriosilva&&theme=tokyonight"/>         
+    <img  src="https://github-readme-stats.vercel.app/api?username=Rogério Silva&show_icons=false&theme=tokyonight"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rogério Silva&&theme=tokyonight"/>         
 </div>
 </div>
  
