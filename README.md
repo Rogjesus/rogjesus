@@ -1,6 +1,6 @@
 
  💫 About Me:
- <br>Eu sou um desenvolvedor front-end experiente, proficiente em HTML, CSS e JavaScript. Tenho conhecimento em bibliotecas e frameworks como React, Angular ou Vue.js e experiência com ferramentas de gerenciamento de pacotes como npm ou yarn. Entendo as metodologias de desenvolvimento ágil e sou habilidoso no Git. Estou sempre atento as boas práticas de acessibilidade e SEO. Sou capaz de trabalhar em equipe e colaborar com desenvolvedores back-end e designers. Minha comunicação é clara e eficaz. Sou habilidoso para resolver problemas e pensar de forma criativa. Eu sempre estou interessado em aprender novas tecnologias e tendências do mercado.<br><br><br>
+ <br>  Eu sou um desenvolvedor front-end proficiente em HTML, CSS e JavaScript. Tenho conhecimento em bibliotecas e frameworks como React, Angular ou Vue.js e experiência com ferramentas de gerenciamento de pacotes como npm ou yarn. Entendo as metodologias de desenvolvimento ágil e sou habilidoso no Git. Estou sempre atento as boas práticas de acessibilidade e SEO. Sou capaz de trabalhar em equipe e colaborar com desenvolvedores back-end e designers. Minha comunicação é clara e eficaz. Sou habilidoso para resolver problemas e pensar de forma criativa. Eu sempre estou interessado em aprender novas tecnologias e tendências do mercado.<br>
 
 
 ## 🌐 Socials:
