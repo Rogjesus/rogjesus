@@ -45,7 +45,9 @@
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogjesus&bg_color=1aeadc&color=4c9e65&line=754c9e&point=1d1d1d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-![GitHub Contributions](https://ghchart.rshah.org/Rogjesus "Contribuições 2024")
+## ⚡ Histórico de Contribuições
+
+![Contribuições GitHub](https://raw.githubusercontent.com/Rogjesus/Rogjesus/output/github-contribution-grid-snake.svg)
 
 ### 🚀 Projetos em Destaque
 
