@@ -45,6 +45,9 @@
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogjesus&bg_color=1aeadc&color=4c9e65&line=754c9e&point=1d1d1d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
+## 🌱 Linha do Tempo de Código
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rogjesusk&theme=github-compact&bg_color=0d1117&hide_border=true&area=true&area_color=40c463)](https://github.com/Rogjesus)
 
 ### 🚀 Projetos em Destaque
 
