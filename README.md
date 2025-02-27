@@ -45,9 +45,33 @@
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogjesus&bg_color=1aeadc&color=4c9e65&line=754c9e&point=1d1d1d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-## ⚡ Histórico de Contribuições
+## 🎯 **Histórico de Contribuições**
 
-![Contribuições GitHub](https://raw.githubusercontent.com/Rogjesus/Rogjesus/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/Rogjesus">
+    <img 
+      src="https://ghchart.rshah.org/40c463/Rogjesus" 
+      alt="Contribuições Globais"
+      title="Clique para ver o perfil completo"
+      style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    >
+  </a>
+  
+  <!-- Complemento de Estatísticas -->
+  <div align="center" style="margin-top: 20px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Rogjesusk&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true" 
+      alt="Estatísticas"
+      style="margin-right: 30px;"
+    >
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Rogjesus&theme=github-dark-blue&hide_border=true" 
+      alt="Sequência"
+    >
+  </div>
+</div>
+
+
 
 ### 🚀 Projetos em Destaque
 
