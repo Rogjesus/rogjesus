@@ -45,6 +45,24 @@
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogjesus&bg_color=1aeadc&color=4c9e65&line=754c9e&point=1d1d1d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
+## 🚀 Status do Código
+
+<div align="center">
+  <!-- Estatísticas Principais -->
+  <a href="https://github.com/Rogjesus">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Rogjesus&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" 
+      alt="Estatísticas Gerais"
+      style="margin-right: 20px;"
+    >
+  </a>
+  
+  <!-- Sequência de Contribuições -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rogjesus&theme=radical&hide_border=true" 
+    alt="Streak"
+  >
+</div>
 
 ### 🚀 Projetos em Destaque
 
