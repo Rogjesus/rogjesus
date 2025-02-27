@@ -39,7 +39,9 @@
 
 ### 📈 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rogjesus=contribs&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Rogjesus)
+### 📈 Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Rogjesus&hide=contribs&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Rogjesus)
 
 ---
 
