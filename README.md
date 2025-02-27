@@ -45,7 +45,7 @@
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogjesus&bg_color=1aeadc&color=4c9e65&line=754c9e&point=1d1d1d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-[![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rogjesus&theme=dracula)](https://github.com/Rogjesus)
+![GitHub Contributions](https://ghchart.rshah.org/Rogjesus "Contribuições 2024")
 
 ### 🚀 Projetos em Destaque
 
