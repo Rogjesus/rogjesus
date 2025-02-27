@@ -39,8 +39,6 @@
 ### 📈 Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Rogjesus&hide=contribs&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Rogjesus)
-### 🔥 Contribuições Diárias
-[![GitHub Streak](https://streak-stats.demolab.com?user=rogjesus&theme=dark&hide_border=verdadeiro&border_radius=5.3&locale=pt_BR&short_numbers=verdadeiro)](https://git.io/streak-stats)
 
 ---
 
