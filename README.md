@@ -38,8 +38,7 @@
 
 ### 📈 Estatísticas do GitHub
 
-[![Roger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rogjesusk&show_icons=true&theme=radical&hide_title=true)](https://github.com/Rogjesus)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogjesusk&layout=compact&theme=radical)](https://github.com/Rogjesus)
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=Rogjesusk&hide=contribs&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Rogjesusk)
 
 ---
 
