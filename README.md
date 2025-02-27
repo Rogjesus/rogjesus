@@ -43,7 +43,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rogjesus&theme=vision-friendly-dark&hide_border=true)](https://github.com/Rogjesus)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogjesus&bg_color=1aeadc&color=4c9e65&line=754c9e&point=1d1d1d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
