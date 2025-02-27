@@ -47,7 +47,7 @@
 ---
 ## 🌱 Linha do Tempo de Código
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rogjesusk&theme=github-compact&bg_color=0d1117&hide_border=true&area=true&area_color=40c463)](https://github.com/Rogjesus)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rogjesus&theme=github-compact&bg_color=0d1117&hide_border=true&area=true&area_color=40c463)](https://github.com/Rogjesus)
 
 ### 🚀 Projetos em Destaque
 
