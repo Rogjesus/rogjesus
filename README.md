@@ -29,17 +29,17 @@
 
 ### 🏆 Destaques
 
-- 🔭 Atualmente trabalhando em: [E-commerce com Next.js 14](https://github.com/Rogjesusk/next-ecommerce)
+- 🔭 Atualmente trabalhando em: [E-commerce com Next.js 14]
 - 🌱 Aprendendo: **React Native** e **Testes Automatizados (Jest/Cypress)**
-- 👯 Projeto Colaborativo: [Sistema de Doações para ONGs](https://github.com/Rogjesusk/ong-donations-platform)
+- 👯 Projeto Colaborativo: [Sistema de Doações para ONGs]
 - ⚡ Curiosidade: Ex-músico profissional em transição de carreira para tech!
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
-[![Roger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rogjesusk&show_icons=true&theme=radical&hide_title=true)](https://github.com/Rogjesusk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogjesusk&layout=compact&theme=radical)](https://github.com/Rogjesusk)
+[![Roger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rogjesusk&show_icons=true&theme=radical&hide_title=true)](https://github.com/Rogjesus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogjesusk&layout=compact&theme=radical)](https://github.com/Rogjesus)
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| [TaskFlow](https://github.com/Rogjesusk/taskflow-app) | React, Redux Toolkit, Firebase | Sistema de gestão de tarefas com autenticação e sincronização em tempo real |
-| [EcoTracker](https://github.com/Rogjesusk/eco-tracker) | Python, Django, PostgreSQL | Plataforma de monitoramento de hábitos sustentáveis |
-| [CodePlayground](https://github.com/Rogjesusk/code-playground) | TypeScript, Monaco Editor, WebAssembly | Ambiente online para experimentação com código |
+| [TaskFlow] | React, Redux Toolkit, Firebase | Sistema de gestão de tarefas com autenticação e sincronização em tempo real |
+| [EcoTracker] | Python, Django, PostgreSQL | Plataforma de monitoramento de hábitos sustentáveis |
+| [CodePlayground] | TypeScript, Monaco Editor, WebAssembly | Ambiente online para experimentação com código |
 
 ---
 
