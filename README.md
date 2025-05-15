@@ -32,7 +32,6 @@
 - 🔭 Atualmente trabalhando em: [E-commerce com Next.js 14]
 - 🌱 Aprendendo: **React Native** e **Testes Automatizados (Jest/Cypress)**
 - 👯 Projeto Colaborativo: [Sistema de Doações para ONGs]
-- ⚡ Curiosidade: Ex-músico profissional em transição de carreira para tech!
 
 ---
 ### 📈 Estatísticas do GitHub
